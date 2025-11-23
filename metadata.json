@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AR Menu Platform",
+  "description": "An immersive Augmented Reality menu platform allowing customers to visualize dishes in 3D before ordering.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
